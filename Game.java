@@ -6,6 +6,6 @@ public class Game {
     int e = (int)(Math.random()*14)+61;
     int[] bingo = {a, b, c, d, e};
     //public Card {
-
+    system.out.println(Arrays.toString(bingo));
     //}
 }
